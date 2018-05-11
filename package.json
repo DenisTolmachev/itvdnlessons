@@ -1,28 +1,25 @@
 {
-  "name": "itvdn-landing",
+  "name": "itvdnlessons",
   "version": "1.0.0",
-  "description": "This is langing tutorial for ITVDN students",
+  "description": "## Перед стартом проекта необходимо:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergeyamator/itvdn-landing.git"
+    "url": "git+https://github.com/DenisTolmachev/itvdnlessons.git"
   },
-  "author": "Sergey Rubets",
+  "author": "Denis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sergeyamator/itvdn-landing/issues"
+    "url": "https://github.com/DenisTolmachev/itvdnlessons/issues"
   },
-  "homepage": "https://github.com/sergeyamator/itvdn-landing#readme",
+  "homepage": "https://github.com/DenisTolmachev/itvdnlessons#readme",
   "devDependencies": {
-    "browser-sync": "^2.18.8",
-    "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-pug": "^3.3.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^3.1.0",
-    "gulp.spritesmith": "^6.3.0",
-    "rimraf": "^2.6.1"
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.1"
   }
 }
